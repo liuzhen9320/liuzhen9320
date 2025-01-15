@@ -8,7 +8,7 @@
 
 点此访问 → [博客](http://blog.liuzhen932.top)
 
-一般情况下，你会看到我活跃在 [@xiaozhu2007@github](https://github.com/xiaozhu2007) 或者 [@xiaozhu2007@gitlab](https://gitlab.com/xiaozhu2007)，偶尔你可以在某些 Minecraft 服务器里找到我。
+一般情况下，你会看到我活跃在 [@xiaozhu2007@github](https://github.com/xiaozhu2007) 或者 [@liuzhen932 on 932のGit](https://git.213891.xyz/liuzhen932)，偶尔你可以在某些 Minecraft 服务器里找到我。
 
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
@@ -38,14 +38,15 @@
 | 服务名称      | 链接和备注                       |
 | ------------- | -------------------------------- |
 | 🪄 个人博客   | <https://blog.liuzhen932.top/>   |
-| 🖥️ 服务监测   | <https://status.932.moe/> \*     |
-| ☕ 代码片段   | <https://gist.liuzhen932.top/>   |
+| 🖥️ 服务监测   | <https://status.932.moe/>        |
+| ☕ 代码片段   | <https://gist.liuzhen932.top/>\* |
 | 🏖️ RSS 阅读器 | <https://rss.liuzhen932.top/> \* |
-| 🗨️ 轻量评论   | <https://artalk.213891.xyz/> \*  |
-| 🔖 书签收藏   | <https://ld.932.moe/> \*         |
-| 🔒 密码管理   | <https://vw.932.moe/> \*         |
+| 🗨️ 轻量评论   | <https://artalk.213891.xyz/>     |
+| 🔖 书签收藏   | <https://ld.932.moe/>            |
+| 🔍 Git       | <https://git.213891.xyz/> \*     |
+| 🔒 密码管理   | <https://vw.932.moe/>            |
 
-> 标有 `*` 的代表可以通过联系我获取账户，如果我们是零级或一级好友关系可酌情给予实例管理员权限。
+> 标有 `*` 的代表可以通过**统一通行证**一键登录
 
 ## 📚 栈
 
@@ -71,7 +72,7 @@
 - JavaScript +
 - Java -
 - Go =
-- ~~TypeScript（学习 TS？不可能的）~~
+- TypeScript =
 
 ### 🛠️ 操作系统
 
