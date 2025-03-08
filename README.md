@@ -81,7 +81,7 @@
 - Windows 11
 - **Windows 10**
 - Windows 8.1
-- WIndows XP
+- Windows XP
 - Kali 2024.06
 - _Debian 12_
 - Debian 11
