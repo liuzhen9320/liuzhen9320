@@ -100,6 +100,8 @@
 
 ## 📫 联系我
 
+请优先使用邮件联系我（下面那个也可以）：`i@5.1.e.7.0.a.a.e.0.a.2.ip6.arpa`
+
 [![](https://img.shields.io/badge/-Blog-000000?style=for-the-badge&logo=cloudflarepages&logoColor=white)](https://blog.liuzhen932.top/)
 [![](https://img.shields.io/badge/-Email-ff6a00?style=for-the-badge&logo=alibabacloud&logoColor=white)](mailto:im@932.moe)
 [![](https://img.shields.io/endpoint?url=https://wakapi.liuzhen932.top/api/compat/shields/v1/liuzhen932/interval:today&label=Today&color=darkgreen&logo=wakatime&style=for-the-badge)](https://wakapi.liuzhen932.top/leaderboard)
