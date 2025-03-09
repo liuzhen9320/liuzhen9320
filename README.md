@@ -8,7 +8,7 @@
 
 点此访问 → [博客](http://blog.liuzhen932.top)
 
-一般情况下，你会看到我活跃在 [@xiaozhu2007@github](https://github.com/xiaozhu2007) 或者 [@liuzhen932 on 932のGit](https://git.213891.xyz/liuzhen932)，偶尔你可以在某些 Minecraft 服务器里找到我。
+一般情况下，你会看到我活跃在 [@xiaozhu2007@github](https://github.com/xiaozhu2007) 或者 [@liuzhen932 on XMSL Git](https://git.xmsl.im/liuzhen932)，偶尔你可以在某些 Minecraft 服务器里找到我。
 
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
@@ -43,7 +43,7 @@
 | 🏖️ RSS 阅读器 | <https://rss.liuzhen932.top/> \*  |
 | 🗨️ 轻量评论   | <https://artalk.213891.xyz/>      |
 | 🔖 书签收藏   | <https://ld.932.moe/>             |
-| 🔍 Git        | <https://git.213891.xyz/> \*      |
+| 🔍 Git       | <https://git.xmsl.im/> \* (已迁移) |
 | 🔒 密码管理   | <https://vw.932.moe/>             |
 
 > 标有 `*` 的代表可以通过**统一通行证**一键登录
@@ -100,7 +100,7 @@
 
 ## 📫 联系我
 
-请优先使用邮件联系我（下面那个也可以）：`i@5.1.e.7.0.a.a.e.0.a.2.ip6.arpa`
+请优先使用邮件联系我（下面那个也可以）：`liuzhen9320@5.1.e.7.0.a.a.e.0.a.2.ip6.arpa`
 
 [![](https://img.shields.io/badge/-Blog-000000?style=for-the-badge&logo=cloudflarepages&logoColor=white)](https://blog.liuzhen932.top/)
 [![](https://img.shields.io/badge/-Email-ff6a00?style=for-the-badge&logo=alibabacloud&logoColor=white)](mailto:im@932.moe)
