@@ -39,12 +39,13 @@
 | ------------- | --------------------------------- |
 | 🪄 个人博客   | <https://blog.liuzhen932.top/>    |
 | 🖥️ 服务监测   | <https://status.932.moe/>         |
-| ☕ 代码片段   | <https://gist.xmsl.im/>        \* |
+| ☕ 代码片段   | <https://gist.xmsl.im/> \*        |
 | 🏖️ RSS 阅读器 | <https://rss.liuzhen932.top/> \*  |
 | 🗨️ 轻量评论   | <https://artalk.213891.xyz/>      |
-| 🔖 书签收藏   | <https://ld.932.moe/>             |
+| 🔖 书签收藏   | <https://ld.932.moe/> \*          |
 | 🔍 Git       | <https://git.xmsl.im/> \*         |
 | 🔒 密码管理   | <https://vw.932.moe/>             |
+| 💖 网络研究   | <https://5.1.e.7.0.a.a.e.0.a.2.ip6.arpa/liuzhen932/> |
 
 > 标有 `*` 的代表可以通过**统一通行证**一键登录
 
@@ -104,8 +105,6 @@
 
 [![](https://img.shields.io/badge/-Blog-000000?style=for-the-badge&logo=cloudflarepages&logoColor=white)](https://blog.liuzhen932.top/)
 [![](https://img.shields.io/badge/-Email-ff6a00?style=for-the-badge&logo=alibabacloud&logoColor=white)](mailto:im@932.moe)
-[![](https://img.shields.io/endpoint?url=https://wakapi.liuzhen932.top/api/compat/shields/v1/liuzhen932/interval:today&label=Today&color=darkgreen&logo=wakatime&style=for-the-badge)](https://wakapi.liuzhen932.top/leaderboard)
-[![](https://img.shields.io/endpoint?url=https://wakapi.liuzhen932.top/api/compat/shields/v1/liuzhen932/interval:7_days&label=This%20Week&color=darkgreen&logo=wakatime&style=for-the-badge)](https://wakapi.liuzhen932.top/leaderboard)
 [![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fsteamfriends%2F76561199783068612&query=count&color=0b1a37&label=Steam&labelColor=134375&logo=steam&suffix=+friends&style=for-the-badge)](https://steamcommunity.com/profiles/76561199783068612)
 
 ---
