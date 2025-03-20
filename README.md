@@ -35,16 +35,16 @@
 
 以下服务均出于兴趣提供，不提供 SLA 保障：
 
-| 服务名称      | 链接和备注                        |
-| ------------- | --------------------------------- |
-| 🪄 个人博客   | <https://blog.liuzhen932.top/>    |
-| 🖥️ 服务监测   | <https://status.932.moe/>         |
-| ☕ 代码片段   | <https://gist.xmsl.im/> \*        |
-| 🏖️ RSS 阅读器 | <https://rss.liuzhen932.top/> \*  |
-| 🗨️ 轻量评论   | <https://artalk.213891.xyz/>      |
-| 🔖 书签收藏   | <https://ld.932.moe/> \*          |
-| 🔍 Git       | <https://git.xmsl.im/> \*         |
-| 🔒 密码管理   | <https://vw.932.moe/>             |
+| 服务名称      | 链接和备注                                           |
+| ------------- | ---------------------------------------------------- |
+| 🪄 个人博客   | <https://blog.liuzhen932.top/>                       |
+| 🖥️ 服务监测   | <https://status.932.moe/>                            |
+| ☕ 代码片段   | <https://gist.xmsl.im/> \*                           |
+| 🏖️ RSS 阅读器 | <https://rss.liuzhen932.top/> \*                     |
+| 🗨️ 轻量评论   | <https://artalk.213891.xyz/>                         |
+| 🔖 书签收藏   | <https://ld.932.moe/> \*                             |
+| 🔍 Git        | <https://git.xmsl.im/> \*                            |
+| 🔒 密码管理   | <https://vw.932.moe/>                                |
 | 💖 网络研究   | <https://5.1.e.7.0.a.a.e.0.a.2.ip6.arpa/liuzhen932/> |
 
 > 标有 `*` 的代表可以通过**统一通行证**一键登录
