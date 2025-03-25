@@ -16,9 +16,12 @@
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)
 [![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
-[![](https://img.shields.io/badge/-Nuxt.js-00c58e?style=flat-square&logo=nuxt.js&logoColor=white)](https://nuxtjs.org/)
 [![](https://img.shields.io/badge/-Cloudflare-f38020?style=flat-square&logo=cloudflare&logoColor=white)](https://www.cloudflare.com/)
 [![](https://img.shields.io/badge/-Pages-f38020?style=flat-square&logo=cloudflarepages&logoColor=white)](https://www.cloudflare.com/)
+![](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
+![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
 
 ![这是一张好看的图，就丢这里吧](https://img.liuzhen932.top/lang.png)
 
