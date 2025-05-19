@@ -22,8 +22,7 @@
 ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-
-![这是一张好看的图，就丢这里吧](https://img.liuzhen932.top/lang.png)
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=liuzhen932&api_domain=wakapi.xmsl.im&layout=compact)
 
 ## 🥇 个人项目
 
