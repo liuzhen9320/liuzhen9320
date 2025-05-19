@@ -22,16 +22,14 @@
 ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=liuzhen932&api_domain=wakapi.xmsl.im&layout=compact)
-
 ## 🥇 个人项目
 
 你可以在以下项目找到我的身影：
 
 [![这是一张图片](https://github-readme-stats.vercel.app/api/pin/?username=HelloTools-Studio&repo=IAUP&show_owner=true)](https://github.com/HelloTools-Studio/IAUP)
 [![这是一张图片](https://github-readme-stats.vercel.app/api/pin/?username=Mxmilu666&repo=bangbang93HUB&show_owner=true)](https://github.com/Mxmilu666/bangbang93HUB)
-[![这是一张图片](https://github-readme-stats.vercel.app/api/pin/?username=SaltWood-Studio&repo=MiluIsGod&show_owner=true)](https://github.com/SaltWood-Studio/MiluIsGod)
 [![这是一张图片](https://github-readme-stats.vercel.app/api/pin/?username=WolfYangFan&repo=cloudflare.ruleset&show_owner=true)](https://github.com/WolfYangFan/cloudflare.ruleset)
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=liuzhen932&api_domain=wakapi.xmsl.im&layout=compact)
 
 ## ✨ 个人服务
 
