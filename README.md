@@ -99,9 +99,9 @@
 
 <div align="center">
 
-[![Blog](https://img.shields.io/badge/-📝_博客-000000?style=for-the-badge&logo=cloudflarepages&logoColor=white)](https://blog.liuzhen932.top/)
-[![Email](https://img.shields.io/badge/-📧_邮箱-ff6a00?style=for-the-badge&logo=alibabacloud&logoColor=white)](mailto:im@932.moe)
-[![Steam](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fsteamfriends%2F76561199783068612&query=count&color=0b1a37&label=🎮_Steam&labelColor=134375&logo=steam&suffix=+好友&style=for-the-badge)](https://steamcommunity.com/profiles/76561199783068612)
+[![Blog](https://img.shields.io/badge/-博客-000000?style=for-the-badge&logo=cloudflarepages&logoColor=white)](https://blog.liuzhen932.top/)
+[![Email](https://img.shields.io/badge/-邮箱-ff6a00?style=for-the-badge&logo=alibabacloud&logoColor=white)](mailto:im@932.moe)
+[![Steam](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fsteamfriends%2F76561199783068612&query=count&color=0b1a37&label=Steam&labelColor=134375&logo=steam&suffix=+好友&style=for-the-badge)](https://steamcommunity.com/profiles/76561199783068612)
 
 </div>
 
