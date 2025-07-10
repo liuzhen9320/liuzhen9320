@@ -53,32 +53,33 @@
 
 ### 💻 编程语言掌握度
 
-> 🏆 技能等级说明：`-` 了解 | `=` 熟悉 | `+` 掌握 | `++` 熟练
+> 🏆 技能等级说明：`-` 了解 | `=` 熟悉 | `+` 掌握 | `++` 熟练 | `+++` 专家
 
-- ~~C/C++ 💀（暂未涉猎）~~
+- ~~C/C++ 💀~~
 - 🔷 C# `-`
+- 🐍 Python3 `+`
+- 🐍 Python2 `=`
+- 🗃️ SQL `+`
+- 🌐 PHP `+`
+- ☕ Java `=`
+- 🚀 Go `+`
 - 🌐 HTML `++`
 - 🎨 CSS `+`
-- 📝 Markdown `++`
-- 🐍 Python3 `+`
-- 🗃️ SQL `-`
-- 🌐 PHP `+`
-- ⚡ JavaScript `+`
-- ☕ Java `-`
-- 🚀 Go `=`
-- 📘 TypeScript `=`
+- ⚡ JavaScript `++`
+- 📘 TypeScript `+`
+- 📝 Markdown `+++`
 
 ### 🖥️ 操作系统经验
 
 > 🌟 **粗体** 为主力系统 | _斜体_ 为服务器首选
 
 - 🪟 Windows 11
-- 🌟 **Windows 10**（主力桌面）
+- 🌟 **Windows 10**
 - 🔄 Windows 8.1
-- 🕰️ Windows XP（怀旧）
-- 🔐 Kali 2024.06（安全测试）
-- 🌟 _Debian 12_（服务器首选）
-- 🐧 Debian 11
+- 🕰️ Windows XP
+- 🔐 Kali 2024.06
+- 🌟 _Debian 12_
+- 🐧 Debian 13
 
 ### 🔧 其他核心技能
 
