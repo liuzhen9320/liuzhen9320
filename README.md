@@ -12,14 +12,32 @@
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=000000)](https://reactjs.org/)
 [![Vue.js](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)
 [![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
+[![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/-Java-ed8b00?style=flat-square&logo=openjdk&logoColor=ffffff)](https://www.java.com/)
+[![Go](https://img.shields.io/badge/-Go-00add8?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/)
+[![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=ffffff)](https://www.rust-lang.org/)
+[![PHP](https://img.shields.io/badge/-PHP-777bb4?style=flat-square&logo=php&logoColor=ffffff)](https://www.php.net/)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-0095d5?style=flat-square&logo=kotlin&logoColor=ffffff)](https://kotlinlang.org/)
+[![Dart](https://img.shields.io/badge/-Dart-0175c2?style=flat-square&logo=dart&logoColor=ffffff)](https://dart.dev/)
+[![Flutter](https://img.shields.io/badge/-Flutter-02569b?style=flat-square&logo=flutter&logoColor=ffffff)](https://flutter.dev/)
+[![Assembly](https://img.shields.io/badge/-Assembly-654ff0?style=flat-square&logo=assemblyscript&logoColor=ffffff)](https://en.wikipedia.org/wiki/Assembly_language)
+[![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square&logo=gnu-bash&logoColor=ffffff)](https://www.gnu.org/software/bash/)
+[![PowerShell](https://img.shields.io/badge/-PowerShell-5391fe?style=flat-square&logo=powershell&logoColor=ffffff)](https://docs.microsoft.com/en-us/powershell/)
+
+[![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![Cloudflare](https://img.shields.io/badge/-Cloudflare-f38020?style=flat-square&logo=cloudflare&logoColor=white)](https://www.cloudflare.com/)
 [![Pages](https://img.shields.io/badge/-Pages-f38020?style=flat-square&logo=cloudflarepages&logoColor=white)](https://www.cloudflare.com/)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/)
+[![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-121011?style=flat-square&logo=github&logoColor=white)](https://pages.github.com/)
+[![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white) ](https://github.com/features/actions)
+[![Bitwarden](https://img.shields.io/badge/Bitwarden-%23175DDC.svg?style=flat-square&logo=bitwarden&logoColor=white) ](https://bitwarden.com/)
+[![curl](https://img.shields.io/badge/curl-%23073551.svg?style=flat-square&logo=curl&logoColor=white)](https://curl.se/)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ## ⏰ 代码时间统计
@@ -99,9 +117,9 @@
 
 <div align="center">
 
-[![Blog](https://img.shields.io/badge/-博客-000000?style=for-the-badge&logo=cloudflarepages&logoColor=white)](https://blog.liuzhen932.top/)
-[![Email](https://img.shields.io/badge/-邮箱-ff6a00?style=for-the-badge&logo=alibabacloud&logoColor=white)](mailto:im@932.moe)
-[![Steam](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fsteamfriends%2F76561199783068612&query=count&color=0b1a37&label=Steam&labelColor=134375&logo=steam&suffix=+好友&style=for-the-badge)](https://steamcommunity.com/profiles/76561199783068612)
+[![Blog](https://img.shields.io/badge/-博客-000000?style=flat-square&logo=cloudflarepages&logoColor=white)](https://blog.liuzhen932.top/)
+[![Email](https://img.shields.io/badge/-邮箱-ff6a00?style=flat-square&logo=alibabacloud&logoColor=white)](mailto:im@932.moe)
+[![Steam](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fsteamfriends%2F76561199783068612&query=count&color=0b1a37&label=Steam&labelColor=134375&logo=steam&suffix=+好友&style=flat-square)](https://steamcommunity.com/profiles/76561199783068612)
 
 </div>
 
