@@ -6,8 +6,6 @@
 
 ✨ **快速导航** → [📝 博客](http://blog.liuzhen932.top) → [🌐 AS213891](https://www.932.moe)
 
-🎮 **活跃平台**：你通常会看到我活跃在 [@xiaozhu2007@github](https://github.com/xiaozhu2007) 或者 [@liuzhen932 on XMSL Git](https://git.xmsl.im/liuzhen932)，偶尔你可以在某些 Minecraft 服务器里找到我的身影 🎲
-
 💫 **技术栈徽章**
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
@@ -54,6 +52,8 @@
 [![Vagrant](https://img.shields.io/badge/-Vagrant-1563ff?style=flat-square&logo=vagrant&logoColor=ffffff)](https://www.vagrantup.com/)
 
 ## ⏰ 代码时间统计
+
+> 这里是本周统计
 
 ![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=liuzhen932&api_domain=wakapi.xmsl.im&layout=compact&theme=radical)
 
