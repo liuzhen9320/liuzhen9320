@@ -40,7 +40,7 @@
 [![Cloudflare](https://img.shields.io/badge/-Cloudflare-f38020?style=flat-square&logo=cloudflare&logoColor=white)](https://www.cloudflare.com/)
 [![Pages](https://img.shields.io/badge/-Pages-f38020?style=flat-square&logo=cloudflarepages&logoColor=white)](https://www.cloudflare.com/)
 [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=ffffff)](https://git-scm.com/)
-[![Forgejo (XMSL Git)](https://img.shields.io/badge/-Forgejo-f38020?style=flat-square&logo=forgejo&logoColor=white)](https://git.xmsl.im/)
+[![Forgejo (XMSL Git)](https://img.shields.io/badge/-Forgejo-fb923c?style=flat-square&logo=forgejo&logoColor=white)](https://git.xmsl.im/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/)
 [![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-121011?style=flat-square&logo=github&logoColor=white)](https://pages.github.com/)
 [![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white) ](https://github.com/features/actions)
