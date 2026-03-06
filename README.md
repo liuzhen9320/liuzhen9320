@@ -4,9 +4,6 @@
 
 <img align='right' src="https://avatars.githubusercontent.com/u/141824471?v=4" width="150" alt="个人头像" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
-![](https://github.com/liuzhen9320/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only) ![](https://github.com/liuzhen9320/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
-![](https://github.com/liuzhen9320/github-stats/blob/master/generated/overview.svg#gh-light-mode-only) ![](https://github.com/liuzhen9320/github-stats/blob/master/generated/languages.svg#gh-light-mode-only)
-
 ✨ **快速导航** → [📝 博客](http://blog.liuzhen932.top) → [🌐 AS213891](https://www.932.moe)
 
 💫 **技术栈徽章**
@@ -56,6 +53,9 @@
 [![Vagrant](https://img.shields.io/badge/-Vagrant-1563ff?style=flat-square&logo=vagrant&logoColor=ffffff)](https://www.vagrantup.com/)
 
 ## 📚 技能栈概览
+
+![](https://github.com/liuzhen9320/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only) ![](https://github.com/liuzhen9320/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/liuzhen9320/github-stats/blob/master/generated/overview.svg#gh-light-mode-only) ![](https://github.com/liuzhen9320/github-stats/blob/master/generated/languages.svg#gh-light-mode-only)
 
 ### 🌍 人类语言能力
 
