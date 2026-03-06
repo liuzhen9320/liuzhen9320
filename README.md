@@ -52,6 +52,9 @@
 [![Terraform](https://img.shields.io/badge/-Terraform-623ce4?style=flat-square&logo=terraform&logoColor=ffffff)](https://www.terraform.io/)
 [![Vagrant](https://img.shields.io/badge/-Vagrant-1563ff?style=flat-square&logo=vagrant&logoColor=ffffff)](https://www.vagrantup.com/)
 
+[![Blog](https://img.shields.io/badge/-博客-000000?style=flat-square&logo=cloudflarepages&logoColor=white)](https://blog.liuzhen932.top/)
+[![Steam](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fsteamfriends%2F76561199783068612&query=count&color=0b1a37&label=Steam&labelColor=134375&logo=steam&suffix=+好友&style=flat-square)](https://steamcommunity.com/profiles/76561199783068612)
+
 ## 📚 技能栈概览
 
 ![](https://github.com/liuzhen9320/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only) ![](https://github.com/liuzhen9320/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
@@ -66,30 +69,29 @@
 
 > 🏆 技能等级说明：`-` 了解 | `=` 熟悉 | `+` 掌握 | `++` 熟练 | `+++` 专家
 
-- ~~C/C++ 💀~~
+- ~~C++ 💀~~
+- ✨ C `=`
 - 🔷 C# `-`
-- 🐍 Python3 `+`
+- 🐍 Python3 `++`
 - 🐍 Python2 `=`
-- 🗃️ SQL `+`
-- 🌐 PHP `+`
-- ☕ Java `=`
-- 🚀 Go `+`
+- 🗃️ SQL `++`
+- 🌐 PHP `++`
+- ☕ Java `++`
+- 🚀 Go `++`
 - 🌐 HTML `++`
-- 🎨 CSS `+`
+- 🎨 CSS `++`
 - ⚡ JavaScript `++`
-- 📘 TypeScript `+`
+- 📘 TypeScript `++`
 - 📝 Markdown `+++`
 
 ### 🖥️ 操作系统经验
-
-> 🌟 **粗体** 为主力系统 | _斜体_ 为服务器首选
 
 - 🪟 Windows 11
 - 🌟 **Windows 10**
 - 🔄 Windows 8.1
 - 🕰️ Windows XP
-- 🔐 Kali 2024.06
-- 🌟 _Debian 12_
+- 🔐 Kali
+- 🌟 Debian 12
 - 🐧 Debian 13
 
 ### 🔧 其他核心技能
@@ -103,18 +105,6 @@
 - 🔷 Bing Search
 - 📚 StackOverFlow
 - 🐍 pypi.org
-
-## 📮 联系方式
-
-💌 **首选联系方式**：邮件 `liuzhen9320@5.1.e.7.0.a.a.e.0.a.2.ip6.arpa`
-
-<div align="center">
-
-[![Blog](https://img.shields.io/badge/-博客-000000?style=flat-square&logo=cloudflarepages&logoColor=white)](https://blog.liuzhen932.top/)
-[![Email](https://img.shields.io/badge/-邮箱-ff6a00?style=flat-square&logo=alibabacloud&logoColor=white)](mailto:im@932.moe)
-[![Steam](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fsteamfriends%2F76561199783068612&query=count&color=0b1a37&label=Steam&labelColor=134375&logo=steam&suffix=+好友&style=flat-square)](https://steamcommunity.com/profiles/76561199783068612)
-
-</div>
 
 ---
 
