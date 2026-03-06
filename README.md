@@ -4,6 +4,11 @@
 
 <img align='right' src="https://avatars.githubusercontent.com/u/141824471?v=4" width="150" alt="个人头像" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
+![](https://github.com/liuzhen9320/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/liuzhen9320/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/liuzhen9320/github-stats/blob/master/generated/overview.svg#gh-light-mode-only)
+![](https://github.com/liuzhen9320/github-stats/blob/master/generated/languages.svg#gh-light-mode-only)
+
 ✨ **快速导航** → [📝 博客](http://blog.liuzhen932.top) → [🌐 AS213891](https://www.932.moe)
 
 💫 **技术栈徽章**
@@ -51,24 +56,6 @@
 [![Ansible](https://img.shields.io/badge/-Ansible-ee0000?style=flat-square&logo=ansible&logoColor=ffffff)](https://www.ansible.com/)
 [![Terraform](https://img.shields.io/badge/-Terraform-623ce4?style=flat-square&logo=terraform&logoColor=ffffff)](https://www.terraform.io/)
 [![Vagrant](https://img.shields.io/badge/-Vagrant-1563ff?style=flat-square&logo=vagrant&logoColor=ffffff)](https://www.vagrantup.com/)
-
-## ⏰ 代码时间统计
-
-> 这里是本周统计
-
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=liuzhen932&api_domain=wakapi.xmsl.im&layout=compact&theme=radical)
-
-## 🎨 个人服务生态
-
-> 🎪 以下服务均出于兴趣提供，不提供 SLA 保障，但用心维护每一个服务
-
-| 🏷️ 服务名称 | 🔗 链接和备注 | 📝 描述 |
-| ------------- | ---------------------------------------------------- | -------- |
-| 🪄 **个人博客** | <https://blog.liuzhen932.top/> | 技术分享与生活记录 |
-| 🔍 **Git 仓库** | <https://git.xmsl.im/> * | 私人代码托管 |
-| 💖 **网络研究** | <https://5.1.e.7.0.a.a.e.0.a.2.ip6.arpa/liuzhen932/> | IPv6 网络实验 |
-
-> 🎫 标有 `*` 的服务支持**统一通行证**一键登录
 
 ## 📚 技能栈概览
 
